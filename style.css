@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+}
+
+a.activo:active {
+    background-color: yellow;
+}
+
+p.linea::first-line {
+    color: red;
+}
+
+a.apple {
+    background-color: blue;
+    color: white;
+}
+
+a.pixar {
+    background-color: white;
+}
+
+a.iphone {
+    background-color: white;
+}
